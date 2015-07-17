@@ -10,6 +10,17 @@ El Codigo esta escrito en Php & MySql
 *Las preferencias del usuario quedan guardadas en la base de datos para que la próxima vez que el administrador haga cambios a la tabla se conserven tanto el banner dinamico como el texto introducido por el usuario
 *Cuando subes una imagen el Banner Dinamico o template, el sistema lo escala automaticamente para ajustarlo a la medida de la firma, asi que no es forzoso que sea de 450 x 150 (aunque si la imagen trae esas dimenciones, lo mejor).
 
+
+
+# Banner-Gd Dinamico Estructura:
+  * Panel de Administrador
+   * Alta de Usuarios
+   * Baja de Usuarios
+   * Actualización de la tabla
+   * 
+
+
+
 # Banner-Gd Dinamico Estructura
 *Panel de Administrador.
     * Alta de Usuarios
