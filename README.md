@@ -31,7 +31,7 @@ El Codigo esta escrito en Php & MySql
 
 Links:
 * [Demo OnLine Banner-Gd Dinamico](http://diegopino.besaba.com/banner-gd/) Demo OnLine
-* [YouTube Admin Demo](http://diegopino.besaba.com/banner-gd/) Ejemplo Admin
+* [YouTube Admin Demo](http://youtu.be/QNE3GmKkH_Y) Ejemplo Admin
 * [YouTube User Demo](http://diegopino.besaba.com/banner-gd/) Ejemplo User
 
 Mas Actualizaciones... proximamente...
