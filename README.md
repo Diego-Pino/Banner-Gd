@@ -12,7 +12,7 @@ El Codigo esta escrito en Php & MySql
 
 
 
-# Banner-Gd Dinamico Estructura:
+# Banner-Gd Dinamico Administrador:
   * Panel de Administrador
    * Alta de Usuarios
    * Baja de Usuarios
@@ -20,16 +20,11 @@ El Codigo esta escrito en Php & MySql
    * 
 
 
-
-# Banner-Gd Dinamico Estructura
-*Panel de Administrador.
-    * Alta de Usuarios
-    * Baja de Usuarios
-    * Actualización de la tabla
-
-*Panel de Usuario
-    * Elección de Template
-    * Personalizar firma (texto)
+# Banner-Gd Dinamico Usuario:
+  * Panel de Usuario
+   * Elección de Template
+   * Personalizar firma (texto)
+   * 
 
 
 # Demo OnLine:
